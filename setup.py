@@ -5,7 +5,6 @@ version = '1.0.7'
 LONG_DESCRIPTION = """
 How to use django-pagination
 ----------------------------
-extra line of comment
 ``django-pagination`` allows for easy Digg-style pagination without modifying
 your views.
 
